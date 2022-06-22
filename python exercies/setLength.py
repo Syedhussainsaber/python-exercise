@@ -1,0 +1,5 @@
+sampleSet=set()
+sampleSet.add(20)
+sampleSet.add("20")
+sampleSet.add(20.0)
+print(len(sampleSet))
